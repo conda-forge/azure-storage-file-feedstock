@@ -1,6 +1,6 @@
 {% set name = "azure-storage-file" %}
-{% set version = "1.4.0" %}
-{% set sha256 = "5217b0441b671246a8d5f506a459fa3af084eeb9297c5be3bbe95d75d23bac2f" %}
+{% set version = "2.0.1" %}
+{% set sha256 = "6e7697d0b89de26cbaf171cef9855cbf80a66546db92963bc719d307fb0031ac" %}
 
 package:
   name: {{ name|lower }}
