@@ -30,6 +30,10 @@ test:
     - azure
     - azure.storage
     - azure.storage.file
+  commands:
+    - pip check
+  requires:
+    - pip
 
 about:
   home: https://github.com/Azure/azure-storage-python
